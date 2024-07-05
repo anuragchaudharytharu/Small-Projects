@@ -1,0 +1,25 @@
+body {
+  font-family: Verdana;
+  text-align: center;
+}
+
+#myButton {
+  background-color: white;
+  color: black;
+  font-size: 3em;
+  pad: 5px 25px;
+  border-radius: 5px;
+  border: 2px solid black;
+  cursor: pointer;
+}
+
+#myButton:hover {
+  background-color: black;
+  color: white;
+}
+
+.labels {
+  font-size: 3em;
+  background-color: teal;
+  border-radius: 10px;
+}
